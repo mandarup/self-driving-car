@@ -29,3 +29,7 @@
 	path = advanced-lane-lines
 	url = https://github.com/mandarup/advanced-lane-lines.git
 	branch = master
+[submodule "vehicle-detection"]
+	path = vehicle-detection
+	url = https://github.com/mandarup/vehicle-detection.git
+	branch = master
