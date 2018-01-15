@@ -1,0 +1,31 @@
+[submodule "unscented-kalman-filter"]
+	path = unscented-kalman-filter
+	url = https://github.com/mandarup/unscented-kalman-filter.git
+[submodule "model-predictive-control"]
+	path = model-predictive-control
+	url = https://github.com/mandarup/model-predictive-control.git
+	branch = master
+[submodule "pid-control"]
+	path = pid-control
+	url = https://github.com/mandarup/pid-control.git
+	branch = master
+[submodule "particle-filter"]
+	path = particle-filter
+	url = https://github.com/mandarup/particle-filter.git
+	branch = master
+[submodule "MV3D"]
+	path = MV3D
+	url = https://github.com/mandarup/MV3D.git
+	branch = master
+[submodule "extended-kalman-filter"]
+	path = extended-kalman-filter
+	url = https://github.com/mandarup/extended-kalman-filter.git
+	branch = master
+[submodule "behavioral-cloning"]
+	path = behavioral-cloning
+	url = https://github.com/mandarup/behavioral-cloning.git
+	branch = master
+[submodule "advanced-lane-lines"]
+	path = advanced-lane-lines
+	url = https://github.com/mandarup/advanced-lane-lines.git
+	branch = master
